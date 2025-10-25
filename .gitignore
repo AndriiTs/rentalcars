@@ -1,0 +1,24 @@
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+
+# Build
+target/
+build/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.orig
+*.bak
+
